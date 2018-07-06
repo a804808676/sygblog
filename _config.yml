@@ -79,6 +79,6 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/a804808676/sygblog.git
+  repo: https://github.com/a804808676/sygblog.git
   branch: master 
   
